@@ -16,7 +16,7 @@ O que foi usado nos projetos
 
 
 ### Repositório de Referencia
--[Felipe Aguiar] @felipeAguiarCode
--[Dio] @digitalinnovationone 
+-[Felipe Aguiar](@felipeAguiarCode)
+-[Dio](@digitalinnovationone)
 
 https://github.com/felipeAguiarCode/node-react-chatgpt-clone
